@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Peter Setiabudi but my friends call me Pijo. Nice to meet you all!
 <!--
 **petersetiabudi4/petersetiabudi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
